@@ -12,7 +12,7 @@
 
 <h3 align="center"></h3>
 
-<p align="left"> <a href="https://twitter.com/da_" target="blank"><img src="https://img.shields.io/twitter/follow/da_?logo=twitter&style=for-the-badge" alt="daryllfortunado" /></a> </p>
+<p align="left"> <a href="https://twitter.com/daryllfortunado" target="blank"><img src="https://img.shields.io/twitter/follow/da_?logo=twitter&style=for-the-badge" alt="daryllfortunado" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
