@@ -9,7 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=42nado&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
