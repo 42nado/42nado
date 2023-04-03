@@ -1,7 +1,6 @@
 ### Hi there, I am Daryll Anthony Fortunado 👋
 
 
-- 🔭 I’m currently working on Capstone - Barangay Managment System
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on web design
 - 🤔 I’m looking for help with ...
