@@ -7,6 +7,7 @@
 - 📫 How to reach me: daryllfortunado@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+- 🔗 Portfolio : https://daryllfortunado.onrender.com/
 
 
 <h3 align="center"></h3>
