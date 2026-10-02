@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: daryllfortunado@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 - 🔗 Portfolio : https://daryllfortunado.onrender.com/
 
 
